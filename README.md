@@ -1,3 +1,7 @@
+# School Sync
+
+School Sync is a comprehensive student management system designed for educational institutions. It offers seamless login, student record management, teacher-student interactions, and administrative control. The project is crafted with a modern tech stack, featuring HTML, PHP, JavaScript, and SQL, ensuring a polished and interactive UI.
+
 <h1 align="center">📚 School Sync</h1>
 
 <p align="center">
@@ -142,7 +146,7 @@ student-management-system/
 </ul>
 
 <h2 align="left">📝 License</h2>
-<p align="left">This project is licensed under the <strong>Apache License</strong>. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+<p align="left">This project is licensed under the <strong>MIT License</strong>. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2 align="left">🤝 Contributing</h2>
 <p>
@@ -150,9 +154,8 @@ student-management-system/
 </p>
 
 <h2 align="left">📬 Contact</h2>
-<p align="left">For any inquiries or feedback, please contact <a href="mailto:talk.himanshsharma@gmail.com">talk.himanshsharma@gmail.com</a></p>
+<p align="left">For any inquiries or feedback, please contact <a href="mailto:yourname@domain.com">yourname@domain.com</a>.</p>
 
 ------
 
-<p align="center">Made with ❤️ by <a href="https://github.com/himanshsharma">Himansh Sharma</a></p>
->>>>>>> master
+<p align="center">Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a></p>
