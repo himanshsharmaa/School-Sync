@@ -155,4 +155,3 @@ student-management-system/
 ------
 
 <p align="center">Made with ❤️ by <a href="https://github.com/himanshsharma">Himansh Sharma</a></p>
->>>>>>> master
