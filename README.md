@@ -142,7 +142,7 @@ student-management-system/
 </ul>
 
 <h2 align="left">📝 License</h2>
-<p align="left">This project is licensed under the <strong>Apache License</strong>. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+<p align="left">This project is licensed under the <strong>GNU GENERAL PUBLIC LICENSE</strong>. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2 align="left">🤝 Contributing</h2>
 <p>
@@ -155,4 +155,3 @@ student-management-system/
 ------
 
 <p align="center">Made with ❤️ by <a href="https://github.com/himanshsharma">Himansh Sharma</a></p>
->>>>>>> master
